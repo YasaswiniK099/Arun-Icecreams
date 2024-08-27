@@ -1,0 +1,21 @@
+.navbar-brand{
+    padding-left: 50px;
+}
+.navbar-collapse{
+    padding-left: 20%;
+}
+.nav-item a{
+    padding-left: 5%;
+}
+.d-flex{
+    padding-right: 30%;
+}
+
+/*button*/
+
+.btn1{
+    color: rgb(128, 127, 127);
+    border: 2px solid rgb(153, 151, 151);
+    background-color: transparent;
+}
+
